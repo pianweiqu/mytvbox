@@ -1,14 +1,21 @@
 {
   "sites": [
     {
-      "key": "ddd",
-      "name": "小鸡",
-      "type": 1,
-      "api": "https://dadiapi.com/api.php/provide/vod/",
-      "playUrl": "https://xxb-player.com/player.php/?url=",
+      "key": "点播源",
+      "name": "点播源",
+      "type": 0,
+      "api": "http://www.kkkkkbbbbb.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
     }
   ],
   "lives": [
@@ -27,8 +34,8 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "type": 1,
+      "url": "https://dadiapi.com/api.php/provide/vod/"
     }
   ],
   "flags": [
