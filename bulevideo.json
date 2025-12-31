@@ -3,8 +3,8 @@
     {
       "key": "wenston1",
       "name": "大地资源",
-      "type": 1,
-      "api": "https://dadiapi.com/feifei2/",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
