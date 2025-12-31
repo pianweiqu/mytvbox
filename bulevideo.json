@@ -1,21 +1,14 @@
 {
   "sites": [
     {
-      "key": "点播源",
+      "key": "libvo",
       "name": "点播源",
-      "type": 0,
-      "api": "http://www.kkkkkbbbbb.com/api.php/provide/vod/at/xml/",
+      "type": 2,
+      "api": "csp_Libvio",
+      "playUrl": "https://www.libvio.site/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺"
-      ]
+      "changeable": 1,
+      "playerType": 2
     }
   ],
   "lives": [
@@ -34,8 +27,8 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 1,
-      "url": "https://dadiapi.com/api.php/provide/vod/"
+      "type": 0,
+      "url": "https://xxx.xxx?jx="
     }
   ],
   "flags": [
