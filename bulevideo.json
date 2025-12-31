@@ -4,7 +4,7 @@
       "key": "ddd",
       "name": "小鸡",
       "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+      "api": "https://dadiapi.com/api.php/provide/vod/",
       "playUrl": "https://xxb-player.com/player.php/?url=",
       "searchable": 1,
       "quickSearch": 1,
