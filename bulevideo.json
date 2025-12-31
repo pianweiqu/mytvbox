@@ -3,8 +3,8 @@
     {
       "key": "ddd",
       "name": "小鸡",
-      "type": 2,
-      "api": "https://api.xjzyapi.xyz/aplayer/player.html?autoplay=1&movurl=",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
