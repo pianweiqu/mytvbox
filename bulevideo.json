@@ -1,19 +1,11 @@
 {
   "sites": [
     {
-      "key": "点播源",
-      "name": "量子资源",
+      "key": "wenston",
+      "name": "番茄资源",
       "type": 1,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "modu",
-      "name": "魔都资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "playUrl": "https://fqzy.me/?from=www.zzzypro.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
