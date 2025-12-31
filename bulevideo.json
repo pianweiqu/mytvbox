@@ -1,14 +1,13 @@
 {
   "sites": [
     {
-      "key": "wenston",
-      "name": "番茄资源",
+      "key": "ddd",
+      "name": "小鸡",
       "type": 1,
-      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
-      "playUrl": "https://fqzy.me/?from=www.zzzypro.com",
+      "api": "https://api.xjzyapi.xyz/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     }
   ],
   "lives": [
