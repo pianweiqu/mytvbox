@@ -1,4 +1,14 @@
 {
+    "key": "netflixgc",
+    "name": "奈飞工厂 (Gemini推荐)",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://www.netflixgc.com/api.php/app/"
+}
+{
   "sites": [
     {
       "key": "wenston1",
@@ -273,3 +283,4 @@
     "cms.qdwght.com"
   ]
 }
+
