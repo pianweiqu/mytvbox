@@ -1,0 +1,18 @@
+{
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/jar/custom_spider.jar",
+  "sites": [
+    {
+      "key": "netflixgc",
+      "name": "奈飞工厂",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.netflixgc.com/api.php/app/"
+    }
+  ],
+  "rules": [
+    {"name": "磁力广告", "hosts": ["p2p.huoshan.com"], "regex": ["Video"]}
+  ]
+}
